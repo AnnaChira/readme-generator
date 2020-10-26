@@ -10,7 +10,25 @@ function generateMarkdown(data) {
   
   ${data.installation}
 
-  
+  ## Usage
+
+  ${data.usage}
+
+  ## License
+
+  ${data.license}
+
+  ## Contributing
+
+  ${data.contributing}
+
+  ## Test
+
+  ${data.test}
+
+  ## Questions
+
+  ${data.questions}
 
 `;
 }
