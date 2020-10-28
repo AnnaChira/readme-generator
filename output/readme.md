@@ -1,24 +1,28 @@
-# Gwen
+# Example Project
 
   ## Description
 
-  Cats and more cats
+  Example Description
+
+  ## Table of Contents
+
+  undefined
   
  ## Installation
   
-  NPM
+  Example NPM Install
 
   ## Usage
 
-  NPN Start
+  Example NPM Start
 
   ## License
 
-  Creative commons
+  CC
 
   ## Contributing
 
-  gwen@testing.com
+  contributing@example.com
 
   ## Test
 
@@ -26,5 +30,17 @@
 
   ## Questions
 
-  FAQs
+  Example FAQ
+
+  ## gitHub Username
+
+  Example Username
+
+  ## Email
+
+  myname@example.com
+
+  ## gitHub Profile
+
+  github.com/examplegit
 

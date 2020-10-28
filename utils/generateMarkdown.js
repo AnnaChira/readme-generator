@@ -5,6 +5,10 @@ function generateMarkdown(data) {
   ## Description
 
   ${data.description}
+
+  ## Table of Contents
+
+  ${data.table}
   
  ## Installation
   
@@ -29,6 +33,18 @@ function generateMarkdown(data) {
   ## Questions
 
   ${data.questions}
+
+  ## gitHub Username
+
+  ${data.githubusername}
+
+  ## Email
+
+  ${data.email}
+
+  ## gitHub Profile
+
+  ${data.githubprofile}
 
 `;
 }

@@ -55,6 +55,24 @@ const questions = [
         message: "What is the FAQ?",
         default: "Example FAQ",
     },
+    {
+        type: "input",
+        name: "githubusername",
+        message: "What is your gitHub username?",
+        default: "Example Username",
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "what is your email?",
+        default: "myname@example.com",
+    },
+    {
+        type: "input",
+        name: "githubprofile",
+        message: "What is your gitHub profile?",
+        default: "github.com/examplegit"
+    },
 ];
 
 // function to write README file
