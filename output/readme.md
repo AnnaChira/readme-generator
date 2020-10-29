@@ -1,8 +1,8 @@
-# Example Project
+# My cat project
 
   ## Description
 
-  Example Description
+  An app that helps track your cat's health
 
   ## Table of Contents
     * [Installation] (#installation)
@@ -14,19 +14,19 @@
   
  ## Installation
   
-  Example NPM Install
+  NPM Install
 
   ## Usage
 
-  Example NPM Start
+  NPN Start
 
   ## License
 
-  CC
+  Creative Commons
 
   ## Contributing
 
-  contributing@example.com
+  mycatproject@info.com
 
   ## Test
 
@@ -34,17 +34,17 @@
 
   ## Questions
 
-  Example FAQ
+  MY CAT FAQ
 
   ## gitHub Username
 
-  Example Username
+  AnnaChira
 
   ## Email
 
-  myname@example.com
+  achirapongse@gmail.com
 
   ## gitHub Profile
 
-  github.com/examplegit
+  git.com/AnnaChira
 
